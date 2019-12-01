@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="spring-cloud-starter-2.0.0.RC1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.m2/repository/org/springframework/cloud/spring-cloud-starter/2.0.0.RC1/spring-cloud-starter-2.0.0.RC1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
